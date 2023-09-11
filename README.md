@@ -1,2 +1,2 @@
 # Project-Exploring-Mushrooms
-Project Goals:  build barplots and pie charts inside a for loop;  play with labels and titles;
+Project building barplots inside of a for loop and playing with titles and labels
